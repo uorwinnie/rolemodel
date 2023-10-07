@@ -1,0 +1,52 @@
+.box {
+  background: linear-gradient(to top, #dfe9f3 0%, rgb(230, 230, 230) 100%);
+  margin: auto;
+  padding: 0%;
+  max-width: 1000px;
+  border-radius: 15px;
+}
+.inner-box {
+  margin: 50px;
+  padding: 30px;
+}
+.intro {
+  text-align: center;
+  padding: 15px 0px;
+  margin: 15px 0px 30px;
+}
+.info {
+  display: flex;
+  text-align: left;
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+}
+.info img {
+  max-width: 250px;
+  max-height: 250px;
+  margin: auto 50px;
+}
+b {
+  text-align: center;
+  display: block;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+h3 {
+  line-height: 27px;
+}
+.reason {
+  background-color: whitesmoke;
+  padding: 15px;
+  border-radius: 10px;
+}
+.last-box {
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}
+h4 {
+  font-size: 20px;
+  line-height: 20px;
+}
